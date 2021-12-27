@@ -2,7 +2,7 @@
 
 This [CodePen example](https://codepen.io/dudleystorey/full/yqrhw/) taught me how to make a masonry layout using column.
 
-[DEMO]()
+[DEMO](https://goofy-brattain-53a2d8.netlify.app/src/)
 
 ## Reference
 
